@@ -7,9 +7,9 @@
 
 #mail
  #Absender
-mailSender = "CRON@gu471.de"
+mailSender = "CRON@mydomain.de"
  #Empfaenger
-mailRecepient = "admin@gu471.de"
+mailRecepient = "admin@mydomain.de"
 import socket
 #Betreff
 mailSubject = "CRON@" + socket.gethostname() + " - drive status checks"
