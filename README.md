@@ -6,3 +6,10 @@
 |------------------|------------------------------------------|
 |[send_smart.py](https://github.com/gu471/serverscripts/blob/master/python/send_smart.py)     | check S.M.A.R.T. && mdstat|
 ||[(german)](https://gu471.de/scripts_driveMonitor) (english)
+
+
+## kolab@CentOS
+| file             | Decription                               |
+|------------------|------------------------------------------|
+|[salearn.sh](https://github.com/gu471/serverscripts/blob/master/kolab/salearn.sh)| for learning spam && ham to Kolab |
+||imap=> spam:/Spam/spam, ham:/Spam/ham|
